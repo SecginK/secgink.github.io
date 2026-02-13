@@ -44,9 +44,4 @@ Computer Engineering student specializing in the intersection of **Full-Stack De
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SecginK&show_icons=true&theme=radical" alt="Seçgin Kahraman GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SecginK&layout=compact&theme=radical" alt="Seçgin Kahraman Top Languages" />
-</div>
