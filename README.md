@@ -1,6 +1,6 @@
 # Seçgin Kahraman - Personal Portfolio
 
-This repository hosts my personal portfolio website, showcasing my projects and skills in Full-Stack Development and Artificial Intelligence.
+This repository hosts my personal portfolio website, showcasing my projects and skills in Full-Stack Development and Artificial Intelligence. Based in Denizli & İzmir, Türkiye.
 
 ## 🚀 Live Demo
 
